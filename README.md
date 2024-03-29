@@ -12,7 +12,7 @@
 
 ![pokemon-lsq](./imgs/pokemon-lsq.png)
 
-#### **BinaryDM-1bit4**
+#### **BinaryDM-1bit**
 
 ![pokemon-binarydm](./imgs/pokemon-binarydm.png)
 
